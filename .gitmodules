@@ -1,0 +1,3 @@
+[submodule "stock-and-crypto-trading_sim"]
+	path = stock-and-crypto-trading_sim
+	url = https://github.com/IzzyLerman/stock-and-crypto-trading_sim
