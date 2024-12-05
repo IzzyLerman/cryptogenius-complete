@@ -2,4 +2,7 @@
 alerts.json
 log.txt
 notif-log.txt
+lookup-log.txt
+logo-log.txt
 userinfo.txt
+node_modules/
